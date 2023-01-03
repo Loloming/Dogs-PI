@@ -1,0 +1,31 @@
+.temperamento {
+    border-radius: 30px;
+    height: 30px;
+    margin: 0px 3px;
+}
+
+.raza {
+    border-radius: 30px;
+    height: 30px;
+    margin: 0px 3px;
+}
+
+.orden {
+    border-radius: 30px;
+    height: 30px;
+    margin: 0px 3px;
+}
+
+.peso {
+    border-radius: 30px;
+    height: 30px;
+    margin: 0px 3px;
+}
+
+.button {
+    cursor: pointer;
+    background-color: #c814ff;
+    border-radius: 30px;
+    height: 30px;
+    margin: 0px 3px;
+}

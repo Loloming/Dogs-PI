@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #313436;
+    height: 90px;
+}
+
+.title {
+    text-decoration: none;
+    color: #fff;
+}
+
+.henry_dogs_create {
+    width: 100%;
+}
+
+.titleCreate {
+    text-decoration: none;
+    color: #fff;
+}
+
+.crear_raza {
+    text-decoration: none;
+    color: #fff;
+}
+
+.henry_dogs {
+    margin-left: 20px;
+    position: relative;
+    bottom: 4px;
+}
+
+.raza_container {
+    text-decoration: none;
+}
+
+.raza_div {
+    margin-right: 40px;
+    background-color: #00000038;
+    padding: 6px;
+    border-radius: 25px;
+}

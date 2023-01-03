@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    align-items: center;
+}
+
+.dog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 350px;
+    width: 250px;
+    border-radius: 50px;
+    background-color: rgb(0 0 0 / 70%);
+    margin: 10px;
+}
+
+.dogImg img {
+    height: 200px;
+    width: 250px;
+    border-radius: 50px;
+}
+
+.name {
+    text-decoration: none;
+    color: #fff;
+    width: 250px;
+}
+
+.temperaments {
+    color: #fff;
+    width: 250px;
+}
+
+.life_span {
+    color: #fff;
+    width: 250px;
+}
+
+.weight {
+    color: #fff;
+    width: 250px;
+}
+
+.height {
+    color: #fff;
+    width: 250px;
+}

@@ -1,0 +1,80 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.dog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 250px;
+    width: 200px;
+    border-radius: 50px;
+    background-color: rgb(0 0 0 / 70%);
+    margin: 10px;
+}
+
+.notFound {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    background-color: #4c4c4cb0;
+    padding: 10px;
+    color: #fff;
+    border: solid #000;
+}
+
+.home {
+    position: absolute;
+    cursor: pointer;
+    top: 50%;
+    background-color: #4c4c4cb0;
+    padding: 10px;
+    color: #fff;
+    border: solid #000;
+}
+
+.lista {
+    position: relative;
+    top: 15px;
+    background-color: #4c4c4cb0;
+    color: #fff;
+    border: solid #000;
+}
+
+.dogImg img {
+    height: 150px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.name {
+    text-decoration: none;
+    color: #fff;
+}
+
+.name h4 {
+    
+}
+
+.temperaments {
+    width: 200px;
+}
+
+.weight {
+
+}
+
+.weightAll {
+
+}
+
+.height {
+
+}
+
+.life_span {
+    
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  background-image: url("./background/background.jpg");
+}
+
+footer {
+  margin-top: auto;
+}
